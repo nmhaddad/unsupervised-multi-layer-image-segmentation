@@ -21,6 +21,10 @@ inductive bias of deep image priors and their ability to generalize well to new 
 
 [Read the paper](coupled-deep-image-prior-systems.pdf)
 
+![sketch](media/godzilla.png)
+
+![sketch](media/qatar.png)
+
 ## Install
 
 1. Install libaries
@@ -28,13 +32,7 @@ inductive bias of deep image priors and their ability to generalize well to new 
     - OpenCV
     - Scikit-Image
     - scipy
-    
-![sketch](media/godzilla.png)
-
 2. To run segmentation experiments, run `python segmentation.py`
-
-![sketch](media/qatar.png)
-
 4. To run dehazing system experiments, run `python dehazing.py`
 
 ## References
