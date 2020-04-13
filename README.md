@@ -8,16 +8,16 @@
 
 ## Abstract
 
-It is well known that deep image priors are capable of learning details of low-level statistics of images and 
-videos. Using these statistics under the assumption that images and video are mixtures of multiple layers of 
-sub-images, deep image priors are able to successfully decompose images into multiple layers. When coupled 
-together, these randomly initialized neural networks are able to perform a number of tasks including denoising, 
-image segmentation, and watermark removal. However, it is possible to solve these problems and possibly others 
-using many connected deep image priors. In this project, I show that it is possible to create systems of deep 
-image priors (more than two) that can be used to break images and videos into many separate layers. Deep image 
-prior systems prove to be useful in inverse problems and show some promise in image segmentation problems. 
-Furthermore, my work shows that deep image priors can be chained together into systems to capture low-level 
-statistics about an image or video that are not captured by single or coupled deep image priors.
+It is well known that deep image priors are capable of learning low-level statistics of images and videos and can be 
+used as a handcrafted prior for standard inverse problems. Using these statistics under the assumption that images are 
+mixtures of multiple layers of sub-images, deep image priors are able to successfully de- compose images into separate 
+layers. When coupled together (Double-DIP), deep image priors become even more versatile and can be used for tasks such 
+as image dehazing and image segmentation. In this paper, I show that coupled deep image priors can be linked together 
+into systems that are able to produce iterative solutions to problems. I introduce two tasks to demonstrate that it is 
+possible to create more complex systems of deep image priors via iterative methods and also by increasing the number of 
+deep image priors in an existing Double-DIP model. I show that together, these systems can be used solve problems in 
+which the resulting layers of image decomposition are many. Furthermore, this paper reinforces claims made about the 
+inductive bias of deep image priors and their ability to generalize well to new problems.
 
 [Read the paper](coupled-deep-image-prior-systems.pdf)
 
