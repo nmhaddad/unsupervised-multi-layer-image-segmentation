@@ -33,7 +33,7 @@ inductive bias of deep image priors and their ability to generalize well to new 
     - Scikit-Image
     - scipy
 2. To run segmentation experiments, run `python segmentation.py`
-4. To run dehazing system experiments, run `python dehazing.py`
+4. To run dehazing system experiments, run `python dehazing_system.py`
 
 ## References
 
