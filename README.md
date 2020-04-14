@@ -10,7 +10,7 @@
 
 It is well known that deep image priors are capable of learning low-level statistics of images and videos and can be 
 used as a handcrafted prior for standard inverse problems. Using these statistics under the assumption that images are 
-mixtures of multiple layers of sub-images, deep image priors are able to successfully de- compose images into separate 
+mixtures of multiple layers of sub-images, deep image priors are able to successfully decompose images into separate 
 layers. When coupled together (Double-DIP), deep image priors become even more versatile and can be used for tasks such 
 as image dehazing and image segmentation. In this paper, I show that coupled deep image priors can be linked together 
 into systems that are able to produce iterative solutions to problems. I introduce two tasks to demonstrate that it is 
