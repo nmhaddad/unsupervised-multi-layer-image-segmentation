@@ -37,8 +37,8 @@ inductive bias of deep image priors and their ability to generalize well to new 
 
 ## References
 
-[1] Gandelsman, Yossi and Shocher, Assaf and Irani, Michal, "Double-DIP": Unsupervised Image Decomposition via Coupled Deep-Image-Priors", 2019 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+[1] Ulyanov, D. & Vedaldi, A. & Lempitsky, V. (2018) Deep image prior. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 9446–9454.
 
-[2] Wang, Jianhua & Wang, Huibin & Gao, Guowei & Lu, Huimin & Zhang, Zhen. (2019). Single Underwater Image Enhancement Based on Lp-norm Decomposition. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2945576. 
+[2] Gandelsman, Y. & Schocher, A. & Irani, M. (2018) "Double-DIP": Unsupervised Image Decomposition via Coupled Deep-Image-Priors. The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 11026-11035.
 
-[3] J. Yang, X. Wang, H. Yue, X. Fu and C. Hou, "Underwater image enhancement based on structure-texture decomposition," 2017 IEEE International Conference on Image Processing (ICIP), Beijing, 2017, pp. 1207-1211.
+[3] Bahat, M. & Irani, M. (2016) Blind dehazing using internal patch recurrence. 2016 IEEE International Conference on Computational Photography (ICCP), pp. 1-9.
