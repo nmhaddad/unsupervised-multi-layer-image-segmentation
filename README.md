@@ -1,7 +1,6 @@
 # Coupled Deep Image Prior Systems
 
-- Nathaniel Haddad
-- haddad.na@northeastern.edu
+- Nathaniel Haddad haddad.na@northeastern.edu
 - Northeastern University
 - Disclosure: this is an academic project
 ---
