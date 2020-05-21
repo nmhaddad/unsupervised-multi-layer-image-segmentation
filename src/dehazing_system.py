@@ -398,10 +398,11 @@ def iterative_dehaze(image_name, image, num_chains=2, start_num_iter=4000, iter_
         gt_ambient = dh.best_result.a
         use_deep_channel_prior = False
 
+    num_iter = start_num_iter
+        
     for i in range(num_chains - 1):
         assert dh.post.shape == image.shape, (dh.post.shape, image.shape)
 
-        num_iter = start_num_iter
         num_iter = int(num_iter * iter_factor)
 
         dh = Dehaze(image_name + "_{}".format(i + 1), dh.post, num_iter, plot_during_training, show_every,
