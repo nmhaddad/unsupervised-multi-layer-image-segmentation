@@ -1,11 +1,11 @@
-# Coupled Deep Image Prior Systems
+# Multi-Layer Image Segmentation via Deep Generative Learning
 
 - Nathaniel Haddad haddad.na@northeastern.edu
 - Northeastern University
 - Disclosure: this is an academic project
 ---
 
-## Abstract
+## Coupled Deep Image Prior Systems Paper Abstract
 
 It is well known that deep image priors are capable of learning low-level statistics of images and videos and can be 
 used as a handcrafted prior for standard inverse problems. Using these statistics under the assumption that images are 
