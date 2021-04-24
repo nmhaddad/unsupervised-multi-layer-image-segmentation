@@ -3,6 +3,7 @@
 - Nathaniel Haddad haddad.na@northeastern.edu
 - Northeastern University
 - Disclosure: this is an academic project
+
 ---
 
 ## Coupled Deep Image Prior Systems Paper Abstract
